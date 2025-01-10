@@ -5,4 +5,4 @@ def test_function():
 
 test_function()
 # print(inner_function()) - функция не сработает, так как существует только внутри
-# пространства функции tedt_function
+# пространства функции test_function
